@@ -101,9 +101,11 @@ library(ggpmisc)
 ```
 
 ```{r}
-weather <- read_csv("../../09_opendata/data/weather_monthsum.csv")
+#weather <- read_csv("../../09_opendata/data/weather_monthsum.csv")
 
-weather
+#weather
+
+weather_n 
 ```
 
 
